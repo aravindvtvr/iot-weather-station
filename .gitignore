@@ -1,0 +1,14 @@
+# Credentials — never commit real config
+src/config.py
+
+# MicroPython compiled bytecode
+*.mpy
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.pyc
+__pycache__/
